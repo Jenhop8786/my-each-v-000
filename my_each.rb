@@ -7,6 +7,6 @@ while i < arguement.length
 end
 arguement
 else
-  puts "Did you check your block?"
+  print "Did you check your block?"
 end
 end
